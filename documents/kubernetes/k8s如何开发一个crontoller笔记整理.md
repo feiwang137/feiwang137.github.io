@@ -171,8 +171,6 @@ controller.go
 
 syncHandler 按照实际的业务需求进行修改。
 
-#### 
-
 #### 生成代码
 
 ```
